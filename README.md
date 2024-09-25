@@ -40,15 +40,7 @@
     <img src="https://github.com/user-attachments/assets/f29a2b13-cfc7-4e15-a0b6-1180dc7ba9ca" width="50" height="50" />
 
 </div>
-<div align="center">
-    
-    <img src="https://www.netacad.com/sites/default/files/netacad/images/PacketTracer_Icon_Small.png" alt="Packet Tracer" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/56/PCB_Wizard.png" alt="PCB Wizard" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Flowcode_logo.png/1200px-Flowcode_logo.png" alt="Flowcode" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/en/e/e0/Jira_logo.png" alt="Jira" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/SQL_Server_2017_Logo.svg" alt="Microsoft SQL Server" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/en/8/88/PSpice_Logo.png" alt="PSpice" width="50" height="50"/>
-</div>
+
 
 
 <!--
