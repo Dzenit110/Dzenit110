@@ -37,7 +37,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,visualstudio,github,figma,git,gitlab,dotnet,heroku,powershell,sublime,tensorflow" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,jquery,php,laravel,fastapi,typescript,firebase,arduino,cs,c,cpp,java,mysql,flask,anaconda,matlab,unity"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,jquery,php,laravel,fastapi,typescript,firebase,arduino,cs,c,cpp,java,mysql,flask,anaconda,matlab,unity,azure"/>
   
 </div>
 <br><br>
@@ -50,6 +50,7 @@
 <img src="https://github.com/user-attachments/assets/66722dce-d25a-43bc-86d5-1f315cba6b8a" width="60" height="60"  &nbsp; &nbsp/>
 <img src="https://github.com/user-attachments/assets/906cc158-0e38-420f-b0b4-64fc227677e7" width="65" height="65" &nbsp; &nbsp/>
 <img src="https://github.com/user-attachments/assets/f31a3b4e-0afa-4dc7-a718-3690754a2c15" width="50" height="50" &nbsp; &nbsp/>
+<img src="https://github.com/user-attachments/assets/cc882d43-66a2-47bd-934c-371efec3670a" width="50" height="50" &nbsp; &nbsp/>
 
 </div>
 
