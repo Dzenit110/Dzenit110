@@ -8,9 +8,9 @@
 🌟 Machine Learning
 🌟 Deep Learning
 🌟 Data Engineering 
-🌟 Embedded Systems Engineering, 
+🌟 Embedded Systems Engineering
 🌟 Electronic Engineering
-🌟 Software Engineering.</h4>
+🌟 Software Engineering</h4>
 
 
 <!--
