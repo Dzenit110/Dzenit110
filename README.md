@@ -43,7 +43,7 @@
 <br><br>
 <div align="left">
 <img src="https://github.com/user-attachments/assets/f29a2b13-cfc7-4e15-a0b6-1180dc7ba9ca" width="70" height="70"  &nbsp; &nbsp; >
-<img src="https://github.com/user-attachments/assets/cc033c68-7d46-4901-802f-0bc7d2583b95" width="50" height="50" &nbsp; &nbsp; />
+<img src="https://github.com/user-attachments/assets/cc033c68-7d46-4901-802f-0bc7d2583b95" width="35" height="35" &nbsp; &nbsp; />
 
 </div>
 
