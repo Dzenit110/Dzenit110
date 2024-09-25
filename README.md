@@ -37,10 +37,11 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,visualstudio,github,figma,git,gitlab,dotnet,heroku,powershell,sublime,tensorflow" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,jquery,php,laravel,fastapi,typescript,firebase,arduino,cs,c,cpp,java,mysql,flask,anaconda,mysql,matlab,unity, pandas, dreamweaver"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,jquery,php,laravel,fastapi,typescript,firebase,arduino,cs,c,cpp,java,mysql,flask,anaconda,mysql,matlab,unity"/>
   
 </div>
 <br><br>
+
 <div align="left">
 <img src="https://github.com/user-attachments/assets/f05570ca-e4ac-4a2d-9c5d-f90ebd674ee8" width="60" height="50" alt="Download"> &nbsp; &nbsp; 
 <img src="https://github.com/user-attachments/assets/f29a2b13-cfc7-4e15-a0b6-1180dc7ba9ca" width="70" height="70"  &nbsp; &nbsp; >
@@ -49,7 +50,6 @@
 <img src="https://github.com/user-attachments/assets/66722dce-d25a-43bc-86d5-1f315cba6b8a" width="60" height="60"  &nbsp; &nbsp/>
 <img src="https://github.com/user-attachments/assets/906cc158-0e38-420f-b0b4-64fc227677e7" width="65" height="65" &nbsp; &nbsp/>
 <img src="https://github.com/user-attachments/assets/f31a3b4e-0afa-4dc7-a718-3690754a2c15" width="50" height="50" &nbsp; &nbsp/>
-
 
 </div>
 
