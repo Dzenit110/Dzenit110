@@ -39,16 +39,17 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,jquery,php,laravel,fastapi,typescript,firebase,arduino,cs,c,cpp,java,mysql,flask,anaconda,mysql,matlab,unity" />
 </div>
 <div align="center">
-    <img src="https://www.photoscape.org/images/photoscape.png" alt="PhotoScape" width="50" height="50"/>
-    <img src="https://www.ni.com/en-us/shop/software/national-instruments-multisim.html#overview" alt="NI Multisim" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Proteus_Design_Suite.png/1200px-Proteus_Design_Suite.png" alt="Proteus" width="50" height="50"/>
+    <img src="https://photoscape.org/images/photoscape_logo.png" alt="PhotoScape" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/National_Instruments_Multisim_logo.png" alt="NI Multisim" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/8f/Proteus_Design_Suite.png" alt="Proteus" width="50" height="50"/>
     <img src="https://www.netacad.com/sites/default/files/netacad/images/PacketTracer_Icon_Small.png" alt="Packet Tracer" width="50" height="50"/>
-    <img src="https://www.pcbwizard.com/images/Pcbwizard-logo.png" alt="PCB Wizard" width="50" height="50"/>
-    <img src="https://www.flowcode.co.uk/assets/images/Flowcode.png" alt="Flowcode" width="50" height="50"/>
-    <img src="https://wac-cdn.atlassian.com/dam/jcr:c9deea3b-9f98-4c7d-b68b-3144313fba16/jira-logo.svg" alt="Jira" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/SQL_Server_2017_logo.svg/1200px-SQL_Server_2017_logo.svg.png" alt="Microsoft SQL Server" width="50" height="50"/>
-    <img src="https://www.orcad.com/sites/default/files/orcad-pspice-product-page-2.png" alt="PSpice" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/56/PCB_Wizard.png" alt="PCB Wizard" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Flowcode_logo.png/1200px-Flowcode_logo.png" alt="Flowcode" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/e/e0/Jira_logo.png" alt="Jira" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/SQL_Server_2017_Logo.svg" alt="Microsoft SQL Server" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/88/PSpice_Logo.png" alt="PSpice" width="50" height="50"/>
 </div>
+
 
 <!--
 **Dzenit110/Dzenit110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
