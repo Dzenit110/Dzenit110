@@ -67,9 +67,6 @@
 
 
 <h2 align="center">⚡ Projects ⚡</h2>
-<br>
-
- ↓ <!-- Direct down arrow symbol -->
 
 <!--
 **Dzenit110/Dzenit110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
