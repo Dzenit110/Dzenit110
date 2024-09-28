@@ -66,6 +66,15 @@
 <br><br>
 
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzenit110&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+
+</div>
+
+
 <!--
 **Dzenit110/Dzenit110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
